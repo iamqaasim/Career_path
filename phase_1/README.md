@@ -6,12 +6,12 @@ Over the next 1-4 years, my primary objective is to enhance my existing skillset
 
 ### Languages and Frameworks:
 1. Python (Primary)
-  - Flask: for simple and minimalist projects 
-  - Django: for more professional projects
+  - Flask: For simple and minimalist projects 
+  - Django: For more professional projects
 2. Javacript (Secondary)
-  - Node: for web backnend development
-  - React: for web frontend development
-  - TypeScript: for strict JS coding
+  - Node: For web backnend development
+  - React: For web frontend development
+  - TypeScript: For strict JS coding
 
 ### Databases:
 1. MongoDB: For handling document-oriented data, big data, and real-time applications
