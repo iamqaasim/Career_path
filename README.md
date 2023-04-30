@@ -1,5 +1,5 @@
 # Career_path
-This is a repo to showcase my transition from a fullstack Software Engineer to Data Science and finally to becoming a Machine learning and Artificial intelligence Engineer. I will try and document all the relavent knowledge I'm going to learn along the way
+This is a repo to showcase my transition from a fullstack Software Engineer to Data Science and finally becoming a Machine learning and Artificial intelligence Engineer. I will try and document all the relavent knowledge I'm going to learn along the way
 
 ## My focus will include:
 
@@ -10,6 +10,8 @@ This is a repo to showcase my transition from a fullstack Software Engineer to D
   - OpenCV: For computer vision
 2. **Javacript**: This will be my secondary language that will be used mostly in the first phase
 3. **R**: This will be a backup langugaes in my second and possibly third phase as well
+  - Data.table: For data wrangling
+  - Ggplot2: For data visualization 
 
 ### Frameworks:
 #### Phase 1
@@ -18,7 +20,7 @@ This is a repo to showcase my transition from a fullstack Software Engineer to D
 3. **Node**: For web backnend development
 4. **React*: For web frontend development
 5. **TypeScript**: For strict JavaScript coding practices
-### Phase 2 & 3
+#### Phase 2 & 3
 7. **scikitlearn**: For machine learning (ML)
 8. **Numpy**: For working with arrays
 9. **Pandas**: For orking with data frames and data transformation
@@ -29,18 +31,35 @@ This is a repo to showcase my transition from a fullstack Software Engineer to D
 14. **Natural Language Toolkit (NLTK)**: For text data
 15. **SpaCy**: For text data
 
-### Databases
+### Visualization:
+1. Tableau (Primary): For data visualization and dashboarding
+2. PowerBI:  For data visualization and dashboarding
 
+### Version control:
+1. Git: For version control 
 
+### Web frameworks:
+1. Streamlit: For building data web apps
+2. Panel: For building data dashboards
 
-### Skills Requirmd
-1. Python
-2. ML algorithms
-3. ML libraries
-4. ML platforms
-5. Mathematical and Statsistical models
-6. Natural Language Processing (NLP)
-7. Deep learning
-8. Neural Networks
-9. Big data: Spark, Hadoop, MongoDB
-10. Cloud services: AWS, GCP, Azure
+### Databases:
+1. **MySQL**: Maily for phase 1 & 2 
+2. **MongoDB**: For all phases
+3. **Spark**: Maily for phase 2 & 3
+4. **Hadoop**: Maily for phase 2 & 3
+
+### Cloud services:
+1. **Amazon Web Services (AWS)**: 
+2. **Google Cloud Platform (GCP)**:
+3. **Microsoft cloud computing platform (Azure)**:
+
+## Overall skills required 
+1. 1 - 2 programming langugaes
+2. Relavent frameworks required in each phase
+3. Mathematical and Statsistical modeling
+6. Working with small - big data
+4. Deep learning
+5. Machine learning (ML) algorithms, libraries and platforms
+7. Working with cloud services
+8. Natural Language Processing (NLP)
+9. Neural Networks
