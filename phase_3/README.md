@@ -14,7 +14,7 @@ With a solid foundation and over five years of experience in core programming co
   - Keras (API): For deep learning (DL)
   - TensorFlow: For deep learning (DL)
 
-### Skill Requirments
+### Skills Requirmd
 1. Python
 2. ML algorithms
 3. ML libraries
